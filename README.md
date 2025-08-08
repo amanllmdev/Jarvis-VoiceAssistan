@@ -33,7 +33,7 @@ voice-assistant-ui/
 Install dependencies with:
 
 ```bash
-pip install streamlit pyttsx3 SpeechRecognition pyautogui plyer wikipedia pywhatkit google-generativeai
+pip install streamlit pyttsx3 SpeechRecognition plyer pyautogui wikipedia pywhatkit mtranslate image_generation
 ```
 
 > **Note:**  
