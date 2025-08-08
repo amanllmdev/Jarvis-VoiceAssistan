@@ -1,0 +1,13 @@
+pyttsx3
+speech_recognition
+random
+webbrowser
+datetime
+os
+plyer
+pyautogui
+wikipedia
+pywhatkit
+gemini_request
+mtranslate
+image_generation
