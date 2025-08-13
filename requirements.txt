@@ -1,3 +1,4 @@
+pip>=25.2
 pyttsx3
 SpeechRecognition
 plyer
