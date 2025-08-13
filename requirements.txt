@@ -6,5 +6,7 @@ pyautogui
 wikipedia
 pywhatkit
 mtranslate
-image_generation
+diffusers
+torch
+transformers
 comtypes==1.1.14
